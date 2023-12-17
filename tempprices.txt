@@ -1,1 +1,1 @@
-Text file that temporarily stores the price of a stock before the formatting is cleaned using a call to cleanfile.sh
+
